@@ -59,6 +59,8 @@ const Testimonials = () => {
 
   // Vídeos de depoimentos para o carrossel
   const videoTestimonials = [
+    'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/1.mp4',
+    'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/2.mp4',
     '/testimonials/1.mp4',
     '/testimonials/2 copy.mp4',
     '/testimonials/1 copy copy.mp4'

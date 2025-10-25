@@ -254,7 +254,7 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
           <div className="mt-1 md:hidden">
             <div className="p-3">
               <h2 className="text-xl font-bold mb-4 text-gray-900">
-                Sua internet não tá durando o mês todo? <span className="text-red-600 font-bold bg-red-100 px-2 py-1 rounded">PARE DE JOGAR O SEU DINHEIRO NO LIXO</span>. E comece a economizar mais de 70% com a sua internet, vem você também para a
+                Você está <span className="text-red-600 font-bold bg-red-100 px-2 py-1 rounded">CANSADO DE JOGAR O SEU DINHEIRO NO LIXO</span> com <span className="text-red-600 font-bold bg-red-100 px-2 py-1 rounded">PLANOS DE INTERNET CAROS E LIMITADOS</span>? vem você também economizar com a
               </h2>
               
               {/* Nova imagem centralizada abaixo do título - MOBILE ONLY */}
@@ -586,7 +586,7 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
           <div className="mt-1">
             <div className="p-3">
               <h2 className="text-xl font-bold mb-4 text-gray-900">
-                Sua internet não tá durando o mês todo? <span className="text-red-600 font-bold bg-red-100 px-2 py-1 rounded">PARE DE JOGAR O SEU DINHEIRO NO LIXO</span>. E comece a economizar mais de 70% com a sua internet, vem você também para a
+                Você está <span className="text-red-600 font-bold bg-red-100 px-2 py-1 rounded">CANSADO DE JOGAR O SEU DINHEIRO NO LIXO</span> com <span className="text-red-600 font-bold bg-red-100 px-2 py-1 rounded">PLANOS DE INTERNET CAROS E LIMITADOS</span>? vem você também economizar com a
               </h2>
 
               {/* Nova imagem centralizada abaixo do título - DESKTOP */}

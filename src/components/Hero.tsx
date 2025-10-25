@@ -353,6 +353,7 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
                     {[
                       'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/1.mp4',
                       'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/2.mp4',
+                      'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/3.mp4',
                       '/testimonials/2 copy copy.mp4',
                       '/testimonials/3.mp4',
                       'https://fznhzqgulsyrjfrzcdqi.supabase.co/storage/v1/object/public/depoimentos/video_2025-09-11_05-31-35.mp4',
@@ -684,6 +685,7 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
                     {[
                       'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/1.mp4',
                       'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/2.mp4',
+                      'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/3.mp4',
                       '/testimonials/2 copy copy.mp4',
                       '/testimonials/3.mp4',
                       'https://fznhzqgulsyrjfrzcdqi.supabase.co/storage/v1/object/public/depoimentos/video_2025-09-11_05-31-35.mp4',

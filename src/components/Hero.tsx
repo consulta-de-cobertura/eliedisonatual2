@@ -314,6 +314,13 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
                 </div>
               </div>
 
+              {/* Nova seção: Descubra um mundo de vantagens */}
+              <div className="mb-6 text-center">
+                <p className="text-lg text-gray-700 leading-relaxed">
+                  Descubra um mundo de vantagens com nossos planos de internet 4G e 5G das operadoras Vivo, Claro e TIM. Torne-se um Associado da Federal hoje mesmo e aproveite todos os Benefícios de ser um Associado
+                </p>
+              </div>
+
               {/* Seção de Depoimentos movida para cá */}
               <div className="mt-6 mb-6">
                 <div className="text-center mb-4">
@@ -634,6 +641,13 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
                     Chega de sofrer com internet ruim
                   </p>
                 </div>
+              </div>
+
+              {/* Nova seção: Descubra um mundo de vantagens */}
+              <div className="mb-6 text-center">
+                <p className="text-lg text-gray-700 leading-relaxed">
+                  Descubra um mundo de vantagens com nossos planos de internet 4G e 5G das operadoras Vivo, Claro e TIM. Torne-se um Associado da Federal hoje mesmo e aproveite todos os Benefícios de ser um Associado
+                </p>
               </div>
 
               {/* Seção de Depoimentos movida para cá */}

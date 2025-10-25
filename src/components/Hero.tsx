@@ -295,7 +295,7 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
                   </div>
 
                   <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                    que têm um plano de internet móvel <span className="font-bold text-gray-900">realmente ilimitado</span>, tanto para <span className="font-semibold text-gray-800">área urbana como rural</span>.
+                    que têm um plano de internet móvel <span className="font-black text-blue-600">REALMENTE ILIMITADO</span>, tanto para <span className="font-black text-blue-600">ÁREA URBANA</span> como <span className="font-black text-blue-600">RURAL</span>.
                   </p>
 
                   <div className="flex items-center justify-center gap-4 mb-3 flex-wrap">
@@ -627,7 +627,7 @@ const Hero: React.FC<HeroProps> = ({ onRedirect }) => {
                   </div>
 
                   <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                    que têm um plano de internet móvel <span className="font-bold text-gray-900">realmente ilimitado</span>, tanto para <span className="font-semibold text-gray-800">área urbana como rural</span>.
+                    que têm um plano de internet móvel <span className="font-black text-blue-600">REALMENTE ILIMITADO</span>, tanto para <span className="font-black text-blue-600">ÁREA URBANA</span> como <span className="font-black text-blue-600">RURAL</span>.
                   </p>
 
                   <div className="flex items-center justify-center gap-4 mb-3 flex-wrap">

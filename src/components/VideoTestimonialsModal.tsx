@@ -9,6 +9,8 @@ interface VideoTestimonialsModalProps {
 }
 
 const videos = [
+  'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/1.mp4',
+  'https://qkbeuebapuqnlpjgcvxb.supabase.co/storage/v1/object/public/imagem/2.mp4',
   'https://njmrvklwyzbofuhqrpbt.supabase.co/storage/v1/object/public/depoimentos/1.mp4',
   'https://njmrvklwyzbofuhqrpbt.supabase.co/storage/v1/object/public/depoimentos/2.mp4',
   'https://njmrvklwyzbofuhqrpbt.supabase.co/storage/v1/object/public/depoimentos/4.mp4',
